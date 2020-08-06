@@ -1,6 +1,6 @@
 # TypeScript Import/Export Project Options
 
-Some basic tests between different types of JS/TS declarations and configurations.
+Some basic tests between different types of JS/TS import/export declarations and configurations.
 
 ## Requirements
 

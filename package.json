@@ -1,12 +1,12 @@
 {
-  "name": "ts-import-project-options",
+  "name": "ts-import-export-options",
   "version": "1.0.0",
-  "description": "",
+  "description": "Some basic tests between different types of JS/TS import/export declarations and configurations.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Chia Wei <chiawei@izz.ai>",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^14.0.27",
